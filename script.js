@@ -79,4 +79,4 @@ holdButton.addEventListener('click', function(){
   } else switchplayer();
 });
 
-newGameButton.addEventListener('click', init)
+newGameButton.addEventListener('click', init);
